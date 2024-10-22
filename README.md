@@ -1,19 +1,3 @@
-```python
-class INDU():
-    
-  def __init__(self):
-    self.name = "Umesh induranga";
-    self.username = "induranga123";
-    self.location = "niwandam,ja-ela";
-    self.twitter = "umeshindu_2";
-    self.web = "https://umeshinduranga";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = INDU()
-```
 
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
